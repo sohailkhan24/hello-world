@@ -1,1 +1,3 @@
 # hello-world
+This is the first repository created by me  only with  help from github ......
+Happy to use and learn github
